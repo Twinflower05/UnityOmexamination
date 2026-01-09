@@ -3,7 +3,7 @@
     "name": "PlayerMovement",
     "maps": [
         {
-            "name": "Player",
+            "name": "Basics",
             "id": "c3a658d6-23dd-4df3-9183-f66a4f65832e",
             "actions": [
                 {
@@ -22,7 +22,7 @@
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
